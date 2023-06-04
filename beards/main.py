@@ -25,9 +25,9 @@ beards = {
 beards_ratio = {
     "Male": {
         "Square": {
-            "None": 0.5,
-            "Big-Beard": 0.5,
-            "Normal-Beard-Black": 0.5,
+            "None": 0.3,
+            "Big-Beard": 0.3,
+            "Normal-Beard-Black": 0.3,
         },
         "Rounded": {
             "None": 0.5,

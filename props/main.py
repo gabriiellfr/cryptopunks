@@ -9,7 +9,7 @@ props = {
 
 props_ratio = {
     "None": 0.5,
-    "Cigarette": 0,
+    "Cigarette": 0.5,
 }
 
 def draw_props(draw, head):

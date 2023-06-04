@@ -12,7 +12,7 @@ eyes = {
 }
 
 eyes_ratio = {
-    "Eye-Brow": 0.5,
+    "Eye-Brow": 0.3,
     "3D-Glasses": 0.3,
     "Nerd-Glasses": 0.3,
 }

@@ -20,9 +20,9 @@ hairs_ratio = {
         "Mohawk-Thin": 0.5
     },
     "Female": {
-        "Bald": 0.5,
-        "Wild-White-Hair": 0.5,
-        "Mohawk-Thin": 0.5
+        "Bald": 0.3,
+        "Wild-White-Hair": 0.3,
+        "Mohawk-Thin": 0.3
     },
 }
 

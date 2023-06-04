@@ -15,12 +15,12 @@ mouths = {
 
 mouths_ratio = {
     "Male": {
-        "Normal": 0,
-        "Frown": 0.5,
-        "Smile": 0.5,
+        "Normal": 0.3,
+        "Frown": 0.3,
+        "Smile": 0.3,
     },
     "Female": {
-        "Normal": 0.5,
+        "Normal": 1,
     }
 }
 

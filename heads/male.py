@@ -46,7 +46,7 @@ males = {
 }
 
 males_ratio = {
-    "Square": 0.3,
+    "Square": 0.5,
     "Rounded": 0.5,
 }
 

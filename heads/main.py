@@ -9,8 +9,8 @@ heads = {
 }
 
 head_ratio = {
-    "Male": 0.5,  # 5000 in 10,000
-    "Female": 0.5,  # 5000 in 10,000
+    "Male": 0.5,
+    "Female": 0.5,
 }
 
 def draw_head(draw):
