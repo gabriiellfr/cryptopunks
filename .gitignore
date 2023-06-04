@@ -1,3 +1,4 @@
 
 *.pyc
 punks/*
+.DS_Store
