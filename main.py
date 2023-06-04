@@ -7,6 +7,7 @@ import noses.main as noses
 import mouths.main as mouths
 import hairs.main as hairs
 import eyes.main as eyes
+import earrings.main as earrings
 import beards.main as beards
 import props.main as props
 
@@ -19,6 +20,7 @@ for i in range(num_images):
     skin = skins.draw_skin(draw, head_outline_pixels)
     nose = noses.draw_nose(draw, head)
     mouth = mouths.draw_mouth(draw, head)
+    earring = earrings.draw_earrings(draw, head)
     hair = hairs.draw_hair(draw, head)
     eyes_d = eyes.draw_eyes(draw, head)
     beard = beards.draw_beard(draw, head, head_type)
@@ -56,6 +58,10 @@ for i in range(num_images):
             {
                 "type": "Hair",
                 "value": hair
+            },
+            {
+                "type": "Earring",
+                "value": earring
             },
             {
                 "type": "Beard",
