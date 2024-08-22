@@ -4,17 +4,20 @@ import eyes.eyes_raw as eyes_raw
 import eyes.eye_brow as eye_brow
 import eyes.threed_glasses as threed_glasses
 import eyes.nerd_glasses as nerd_glasses
+import eyes.eye_patch as eye_patch
 
 eyes = {
     "Eye-Brow": eye_brow,
     "3D-Glasses": threed_glasses,
     "Nerd-Glasses": nerd_glasses,
+    "Eye-Patch": eye_patch,
 }
 
 eyes_ratio = {
-    "Eye-Brow": 0.3,
-    "3D-Glasses": 0.3,
-    "Nerd-Glasses": 0.3,
+    "Eye-Brow": 0.25,
+    "3D-Glasses": 0.25,
+    "Nerd-Glasses": 0.25,
+    "Eye-Patch": 0.25,
 }
 
 def draw_eyes(draw, head):
